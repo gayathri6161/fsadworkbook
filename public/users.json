@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@gmail.com",
+    "phone": "1234567890"
+  },
+  {
+    "id": 2,
+    "name": "KOYA GAYATHRI",
+    "email": "gayathri@gmail.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": 3,
+    "name": "KOYA BHAVANA",
+    "email": "bhavana@gmail.com",
+    "phone": "1112223333"
+  },
+  {
+    "id": 4,
+    "name": "Rachel Green",
+    "email": "rachel@gmail.com",
+    "phone": "4445556666"
+  },
+  {
+    "id": 5,
+    "name": "Chandler Bing",
+    "email": "chandler@gmail.com",
+    "phone": "7778889999"
+  }
+]
